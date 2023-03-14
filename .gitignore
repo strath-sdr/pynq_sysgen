@@ -1,0 +1,27 @@
+# Ignore Other
+*.htm
+*.html
+.ipynb_checkpoints
+.idea
+
+# Ignore Logs
+*.log
+
+# Ignore Simulink Files
+*.autosave
+*.slxc
+*\.hbs
+*\.Xil
+*\hdl_prj
+*\slprj
+*\wavedata
+*\netlist
+
+# Ignore Vivado Files
+*.jou
+*vivado.txt
+*vivado.jou
+*vivado.log
+
+# Ignore ./rfstrath/rfstrath/
+**/block_design
